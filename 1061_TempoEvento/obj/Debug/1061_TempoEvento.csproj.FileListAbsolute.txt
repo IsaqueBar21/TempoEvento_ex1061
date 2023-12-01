@@ -1,0 +1,7 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1061_TempoEvento\1061_TempoEvento\bin\Debug\1061_TempoEvento.exe.config
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1061_TempoEvento\1061_TempoEvento\bin\Debug\1061_TempoEvento.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1061_TempoEvento\1061_TempoEvento\bin\Debug\1061_TempoEvento.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1061_TempoEvento\1061_TempoEvento\obj\Debug\1061_TempoEvento.csproj.AssemblyReference.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1061_TempoEvento\1061_TempoEvento\obj\Debug\1061_TempoEvento.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1061_TempoEvento\1061_TempoEvento\obj\Debug\1061_TempoEvento.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1061_TempoEvento\1061_TempoEvento\obj\Debug\1061_TempoEvento.pdb
